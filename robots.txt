@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://KONE-Offical.github.io/KONE/sitemap.xml
